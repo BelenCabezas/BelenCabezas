@@ -23,7 +23,7 @@
 
 - :school: I am a `Junior` at UTN
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=BelenCabezas&amp;color=EA4335&amp;style=flat-square)](mailto:0cabezasbelen0@gmail,com)
-- :nerd_face: Always believe `"You are what you loved"`
+- 😌: Always believe `"You can do it"`
 
 <br>
 <h3> Here's some fun facts about me: </h3>
