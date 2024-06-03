@@ -1,8 +1,7 @@
-<!--horizontal divider(gradiant)-->
+<!--divider-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 
 <div id="user-content-toc">
   <ul align="left">
@@ -11,14 +10,8 @@
 </div>
 
 <!--About Me-->
-
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <img align="right" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width = 450px></picture>
-
-
-
-
 
 
 - :school: I am a `Junior` at UTN
@@ -40,7 +33,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
 
 
 Software & Tools
