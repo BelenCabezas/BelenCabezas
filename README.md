@@ -40,5 +40,12 @@ Software & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
+ ### Now Playing - Spotify 🎧
+<p>
+ <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=usteh&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=usteh&cover_image=true&theme=novatorem&show_offline=true&background_color=fffafa&interchange=false&bar_color=14e4ff&bar_color_cover=false"/>
+ </a>
+ </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
