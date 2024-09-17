@@ -20,19 +20,16 @@
 
 <br>
 <h3> Here's some fun facts about me: </h3>
-
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
 -  **I'm a hopeful web developer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
--  **Finally, I'm a game addict 🎮!**
+
 
 
 ## 🛠️ My Skills
-
- Frontend Development
-
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![REACT]([https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white])
+
 
 
 Software & Tools
